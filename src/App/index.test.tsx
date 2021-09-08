@@ -4,6 +4,6 @@ import { App } from '.';
 
 test('renders App', () => {
   render(<App />);
-  const element = screen.getByText(/intelico/i);
+  const element = screen.getByText(/Интелико/i);
   expect(element).toBeInTheDocument();
 });
