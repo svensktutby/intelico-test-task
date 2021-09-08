@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/intelico-test-task/static/css/main.9008838a.chunk.css",
+    "main.js": "/intelico-test-task/static/js/main.56a08ce2.chunk.js",
+    "main.js.map": "/intelico-test-task/static/js/main.56a08ce2.chunk.js.map",
+    "runtime-main.js": "/intelico-test-task/static/js/runtime-main.44878a42.js",
+    "runtime-main.js.map": "/intelico-test-task/static/js/runtime-main.44878a42.js.map",
+    "static/js/2.39ccc84b.chunk.js": "/intelico-test-task/static/js/2.39ccc84b.chunk.js",
+    "static/js/2.39ccc84b.chunk.js.map": "/intelico-test-task/static/js/2.39ccc84b.chunk.js.map",
+    "index.html": "/intelico-test-task/index.html",
+    "static/css/main.9008838a.chunk.css.map": "/intelico-test-task/static/css/main.9008838a.chunk.css.map",
+    "static/js/2.39ccc84b.chunk.js.LICENSE.txt": "/intelico-test-task/static/js/2.39ccc84b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.44878a42.js",
+    "static/js/2.39ccc84b.chunk.js",
+    "static/css/main.9008838a.chunk.css",
+    "static/js/main.56a08ce2.chunk.js"
+  ]
+}
